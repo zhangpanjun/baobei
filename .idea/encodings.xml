@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/css/bag.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/index.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/led-light.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/lip.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/login.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/register.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/css/u_register.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/reg.php" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
